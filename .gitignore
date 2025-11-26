@@ -1,0 +1,12 @@
+# Maven generated files
+target/
+
+#IntelliJ IDEA
+.idea
+*.iml
+
+#Logs and temporary files
+logs/
+*.log
+*.tmp
+
