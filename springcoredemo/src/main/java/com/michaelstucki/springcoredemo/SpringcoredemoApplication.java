@@ -3,6 +3,10 @@ package com.michaelstucki.springcoredemo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//@SpringBootApplication(
+//        scanBasePackages = {"com.michaelstucki.springcoredemo",
+//                            "com.michaelstucki.util"}
+//)
 @SpringBootApplication
 public class SpringcoredemoApplication {
 
